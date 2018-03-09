@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figures", "Figures\Figures.csproj", "{32088310-CAEE-4285-839C-FED192B1DEC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFigures", "TestFigures\TestFigures.csproj", "{F7B23FCE-4DF5-4A55-BE5D-3D00ED451671}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{813050AC-4B65-4400-9668-67D335442641}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32088310-CAEE-4285-839C-FED192B1DEC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32088310-CAEE-4285-839C-FED192B1DEC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32088310-CAEE-4285-839C-FED192B1DEC5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{32088310-CAEE-4285-839C-FED192B1DEC5}.Debug|x86.Build.0 = Debug|Any CPU
+		{32088310-CAEE-4285-839C-FED192B1DEC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32088310-CAEE-4285-839C-FED192B1DEC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32088310-CAEE-4285-839C-FED192B1DEC5}.Release|x86.ActiveCfg = Release|Any CPU
+		{F7B23FCE-4DF5-4A55-BE5D-3D00ED451671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B23FCE-4DF5-4A55-BE5D-3D00ED451671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B23FCE-4DF5-4A55-BE5D-3D00ED451671}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F7B23FCE-4DF5-4A55-BE5D-3D00ED451671}.Debug|x86.Build.0 = Debug|Any CPU
+		{F7B23FCE-4DF5-4A55-BE5D-3D00ED451671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B23FCE-4DF5-4A55-BE5D-3D00ED451671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7B23FCE-4DF5-4A55-BE5D-3D00ED451671}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
